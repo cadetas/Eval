@@ -6,4 +6,4 @@
  * Time: 12:42
  */
 
-echo "Hello world +";
+echo "Hello world + resolve";
