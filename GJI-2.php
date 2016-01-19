@@ -7,3 +7,4 @@
  */
 
 echo "Hello world!";
+echo "Testing Jenkins build";
