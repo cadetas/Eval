@@ -5,3 +5,12 @@
  * Date: 2016.01.19
  * Time: 10:20
  */
+
+class User {
+
+    public function makeMyDay()
+    {
+        echo "Your day is awesome";
+        echo "test";
+    }
+}
