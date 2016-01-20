@@ -13,6 +13,6 @@ class User {
         echo "Your day is awesome";
         echo "test";
         echo "workflow transition to In Progress!!?";
-        echo "Testing Jenkins and JIRA!x";
+        echo "Testing Jenkins and JIRA!xzzz";
     }
 }
