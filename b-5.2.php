@@ -14,5 +14,6 @@ class User {
         echo "test";
         echo "workflow transition to In Progress!!?";
         echo "Testing Jenkins and JIRA!xzzzy";
+        echo "Jenkins demo";
     }
 }
